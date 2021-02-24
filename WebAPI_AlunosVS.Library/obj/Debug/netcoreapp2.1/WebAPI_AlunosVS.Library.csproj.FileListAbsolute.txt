@@ -1,0 +1,8 @@
+D:\Teste WebAPI\WebAPI_AlunosVS\WebAPI_AlunosVS.Library\bin\Debug\netcoreapp2.1\WebAPI_AlunosVS.Library.deps.json
+D:\Teste WebAPI\WebAPI_AlunosVS\WebAPI_AlunosVS.Library\bin\Debug\netcoreapp2.1\WebAPI_AlunosVS.Library.dll
+D:\Teste WebAPI\WebAPI_AlunosVS\WebAPI_AlunosVS.Library\bin\Debug\netcoreapp2.1\WebAPI_AlunosVS.Library.pdb
+D:\Teste WebAPI\WebAPI_AlunosVS\WebAPI_AlunosVS.Library\obj\Debug\netcoreapp2.1\WebAPI_AlunosVS.Library.csprojAssemblyReference.cache
+D:\Teste WebAPI\WebAPI_AlunosVS\WebAPI_AlunosVS.Library\obj\Debug\netcoreapp2.1\WebAPI_AlunosVS.Library.AssemblyInfoInputs.cache
+D:\Teste WebAPI\WebAPI_AlunosVS\WebAPI_AlunosVS.Library\obj\Debug\netcoreapp2.1\WebAPI_AlunosVS.Library.AssemblyInfo.cs
+D:\Teste WebAPI\WebAPI_AlunosVS\WebAPI_AlunosVS.Library\obj\Debug\netcoreapp2.1\WebAPI_AlunosVS.Library.dll
+D:\Teste WebAPI\WebAPI_AlunosVS\WebAPI_AlunosVS.Library\obj\Debug\netcoreapp2.1\WebAPI_AlunosVS.Library.pdb
